@@ -1,9 +1,9 @@
 # GeoIpScanner
-Beispiel hoster der deutschenrück webseite 
+Example
 `-g -t 212.82.39.109`
 
 
-###Ausgabe:
+###Output
 
 ```Target: 212.82.39.109
 IP: 212.82.39.109
