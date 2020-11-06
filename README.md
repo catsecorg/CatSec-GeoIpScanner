@@ -1,13 +1,9 @@
 # GeoIpScanner
-IP Geolocation information 
-
 Beispiel hoster der deutschenrück webseite 
 `-g -t 212.82.39.109`
 
 
 ###Ausgabe:
-`IPGeolocation 1.0.0 `
-
 
 ```Target: 212.82.39.109
 IP: 212.82.39.109
